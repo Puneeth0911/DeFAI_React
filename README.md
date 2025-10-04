@@ -40,7 +40,7 @@ DeFAI-Guard/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/DeFAI-Guard.git
+git clone https://github.com/Puneeth0911/DeFAI_React
 cd DeFAI-Guard
 2️⃣ Install dependencies for backend
 cd backend
