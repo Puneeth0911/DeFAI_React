@@ -107,3 +107,8 @@ Store historical flagged data for analytics.
 A simple web dashboard to test and visualize fraudulent transaction detection.
 🏁 Conclusion
 DeFAI Guard demonstrates how Artificial Intelligence and Decentralized Finance can come together to make crypto ecosystems safer, smarter, and more transparent.
+
+Contact Information:
+Name: Puneeth Kumar & Team
+Phone: 9399320400
+Email: puneethnagalli3898@gmail.com
